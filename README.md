@@ -1,6 +1,6 @@
 <div align="center">
  <br />
-<img src="https://github.com/ioscribbler/MoodScribbler/blob/main/banner.jpg" alt="Project Banner">
+<img src="https://github.com/ioscribbler/MoodScribbler/blob/main/banner.jpg" alt="Project Banner" height="350">
 </div>
 
 # MoodScribbler
