@@ -1,3 +1,8 @@
+<div align="center">
+ <br />
+<img src="https://github.com/ioscribbler/MoodScribbler/blob/main/banner.jpg" alt="Project Banner">
+</div>
+
 # MoodScribbler
 
 ## 📋 <a name="table">Table of Contents</a>
